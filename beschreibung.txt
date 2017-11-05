@@ -1,0 +1,1 @@
+In diesem Programm kann man Kundendaten, Artikeldaten und Bestellungen speichern. Es ist auch moeglich Personen, Artikel sowie alle Bestellungen, die eine Person bestellt hat, und alle Bestellungen, in denen ein Artikel bestellt wurde, suchen zu lassen. 
